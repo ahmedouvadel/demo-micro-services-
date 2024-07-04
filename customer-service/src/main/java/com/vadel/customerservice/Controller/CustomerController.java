@@ -26,6 +26,6 @@ public class CustomerController {
 
     @GetMapping(path = "/customers/{id}")
     public Customer getCustomerById(@PathVariable Long id){
-        return customerRepository.findById().orElse(null);
+        return customerRepository.findById(id).orElse(null);
     }
 }
