@@ -5,20 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="12e8112f-0067-4879-932f-53f86cf8dae8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/account-service/src/main/java/com/vadel/accountservice/clients/CustomerRestClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway-service/src/main/resources/app.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/account-service/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/account-service/src/main/java/com/vadel/accountservice/AccountServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/account-service/src/main/java/com/vadel/accountservice/AccountServiceApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/account-service/src/main/java/com/vadel/accountservice/Controller/AccountController.java" beforeDir="false" afterPath="$PROJECT_DIR$/account-service/src/main/java/com/vadel/accountservice/Controller/AccountController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/account-service/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer-service/src/main/java/com/vadel/customerservice/Controller/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service/src/main/java/com/vadel/customerservice/Controller/CustomerController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/discovery-service/src/main/java/com/vadel/discoveryservice/DiscoveryServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/discovery-service/src/main/java/com/vadel/discoveryservice/DiscoveryServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/discovery-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/discovery-service/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gateway-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gateway-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gateway-service/src/main/java/com/vadel/gatewayservice/GatewayServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/gateway-service/src/main/java/com/vadel/gatewayservice/GatewayServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gateway-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gateway-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account-service/src/main/java/com/vadel/accountservice/clients/CustomerRestClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/account-service/src/main/java/com/vadel/accountservice/clients/CustomerRestClient.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,29 +45,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "C:/Users/Ahmedou/OneDrive/Desktop/Formation  2024/Back-End/Archi Micro Services/bank-account-app/gateway-service/src/main/resources",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Ahmedou/OneDrive/Desktop/Formation  2024/Back-End/Archi Micro Services/bank-account-app/gateway-service/src/main/resources&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;ef6446e7323ea7bd1ebf4378b9016109&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.vadel.accountservice.module" />
@@ -87,7 +78,7 @@
       <recent name="C:\Users\Ahmedou\OneDrive\Desktop\Formation  2024\Back-End\Archi Micro Services\bank-account-app\gateway-service\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.CustomerServiceApplication">
+  <component name="RunManager" selected="Spring Boot.AccountServiceApplication">
     <configuration name="AccountServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="account-service" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.vadel.accountservice.AccountServiceApplication" />
@@ -133,7 +124,9 @@
       <option name="presentableId" value="Default" />
       <updated>1719979791647</updated>
       <workItem from="1719979793811" duration="2074000" />
-      <workItem from="1720027393618" duration="26788000" />
+      <workItem from="1720027393618" duration="28028000" />
+      <workItem from="1720187709410" duration="1152000" />
+      <workItem from="1720285058899" duration="5039000" />
     </task>
     <servers />
   </component>
@@ -153,5 +146,16 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/gateway-service/src/main/java/com/vadel/gatewayservice/GatewayServiceApplication.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
